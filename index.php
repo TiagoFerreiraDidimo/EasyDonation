@@ -15,7 +15,7 @@
     <body>
         
         <?php
-        echo 'Testando o php';
+        echo '<h1>Testando o PHP</h1>';
         ?>
         
         
